@@ -31,3 +31,4 @@ Numerical Methods - Passed
 Online:
 OpenCV courses
 AndrewNg Machine LEARNING.
+ROS :The Construct(youtube channel)
